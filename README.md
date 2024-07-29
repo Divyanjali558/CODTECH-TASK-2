@@ -165,5 +165,11 @@ Ensure the public directory contains **index.html** and the src directory contai
 
 Start the development server with **npm start**.
 
+![Screenshot 2024-07-29 101159](https://github.com/user-attachments/assets/eb0e21b1-be42-42cd-863b-d22044506cce)
+
+![Screenshot 2024-07-21 114900](https://github.com/user-attachments/assets/c21a9e6d-1d5a-4c3a-91f7-a6324af73704)
+
+
+
 ## Conclusion
 The Recipe Sharing Platform provides a comprehensive solution for users to share and manage recipes. With a robust backend, secure authentication, and a responsive frontend, it offers an excellent user experience. This project can be further extended with additional features such as user profiles, search functionality, and social sharing.
